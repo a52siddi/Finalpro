@@ -12,7 +12,7 @@
 using namespace std;
 class bloodtests{
 	double sodiumconc;
-	double potassiumconc;
+	double potassiumconcen;
 	double chlorideconc;
 	int pH;
 	double Olevel;
